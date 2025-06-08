@@ -5,10 +5,11 @@
   <img src="https://img.shields.io/badge/CounterStrikeSharp-支持-blue?style=for-the-badge" alt="CounterStrikeSharp"/>
   <img src="https://img.shields.io/badge/版本-1.0.0-success?style=for-the-badge" alt="版本"/>
 </div>
-![image](https://github.com/user-attachments/assets/0806f989-0d07-4896-be0c-46a585cf8508)
 ## 📝 插件描述
 
 这是一个CS2服务器插件，用于**完全替代**原生的投票踢人系统，提供更加灵活、公平和可控的投票踢人功能。插件支持**精美的中央HUD显示**，权限分级控制，以及对管理员的保护措施。
+![image](https://github.com/user-attachments/assets/b4196405-45bd-486d-a88c-70efa28b0dc4)
+
 
 ## ✨ 主要特点
 
