@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/CS2-插件-yellow?style=for-the-badge&logo=counter-strike" alt="CS2插件"/>
   <img src="https://img.shields.io/badge/CounterStrikeSharp-支持-blue?style=for-the-badge" alt="CounterStrikeSharp"/>
   <img src="https://img.shields.io/badge/版本-1.0.0-success?style=for-the-badge" alt="版本"/>
+![image](https://github.com/user-attachments/assets/0806f989-0d07-4896-be0c-46a585cf8508)
 </div>
 
 ## 📝 插件描述
